@@ -245,8 +245,8 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ##### REPO:
 * GitHub repository: printf
 #
-### Authors
+### Contributors
 
-* [Tadesse Kebede]
-* [Hunduma Tesfaye]
+* [Tadesse Kebede]- [Tadesse](https://github.com/tadesse381)
+* [Hunduma Tesfaye]-[Hunduma](https://github.com/hundumaaguutamaa)
 
